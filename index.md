@@ -62,6 +62,7 @@ Fresco's image pipeline lets you customize the load in a variety of ways:
 * [Camerite](https://play.google.com/store/apps/details?id=com.camerite)
 * [Bakar](https://play.google.com/store/apps/details?id=com.bakar)
 * [nice](https://play.google.com/store/apps/details?id=com.nice.main)
+* [SoundWaves Podcatcher](https://play.google.com/store/apps/details?id=org.bottiger.podcast)
 * [local.ch](https://play.google.com/store/apps/details?id=ch.local.android)
 * [Redfin](https://play.google.com/store/apps/details?id=com.redfin.android)
 * [Facebook](https://play.google.com/store/apps/details?id=com.facebook.katana)
